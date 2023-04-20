@@ -12,7 +12,7 @@ To run this program, you can use Remix, an online Solidity IDE. Follow the steps
 • Deploy the contract by clicking the Deploy & Run Transactions tab.<br/>
 • Once the contract is deployed, you can interact with it by calling the mint and burn functions and passing in the appropriate parameters.
 
-# Authors
+# Author
 Ryan Lester Aban<br/>
 @rynbn
 
