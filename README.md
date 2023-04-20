@@ -1,4 +1,3 @@
-# metacrafters-solidity
 # Project Title
 MyToken - A simple ERC20 token smart contract
 
